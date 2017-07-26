@@ -8,5 +8,6 @@ int main(int argc, char *argv[])
     w.show();
 
     // i am release 1.0 
+    // release 1.1 
     return a.exec();
 }
