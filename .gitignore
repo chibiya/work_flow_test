@@ -1,3 +1,27 @@
+# Visual Studio
+*.swp
+*.APS
+*.ncb
+*.suo
+*.ilk
+*.pdb
+*.user
+*.cache
+*.idb
+*.aps
+*.sdf
+*.ipch
+*.db
+*.opendb
+*.opensdf
+*.tlog
+*.lastbuildstate
+
+# 
+*.obj
+*.exe
+*.log
+
 # C++ objects and libs
 
 *.slo
