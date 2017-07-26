@@ -3,6 +3,8 @@
 
 int main(int argc, char *argv[])
 {
+    //Nicholas todo : ccc
+
     QApplication a(argc, argv);
     QtGuiApplication1 w;
     w.show();
