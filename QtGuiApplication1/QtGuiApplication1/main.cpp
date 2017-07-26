@@ -3,7 +3,7 @@
 
 int main(int argc, char *argv[])
 {
-    //Nicholas todo : ccc
+    //Nicholas Finished: 20170726
 
     QApplication a(argc, argv);
     QtGuiApplication1 w;
